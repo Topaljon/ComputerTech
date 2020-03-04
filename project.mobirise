@@ -43,7 +43,15 @@
     "uniqCompNum": 10,
     "versionPublish": "4.12.1",
     "screenshot": "screenshot.png",
-    "imageResize": true
+    "imageResize": true,
+    "robotsSwitcher": false,
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "sitemapSwitcher": true,
+    "siteUrl": "https://techniccomp.com/",
+    "sitemapSwitcherAuto": false,
+    "favicon": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
