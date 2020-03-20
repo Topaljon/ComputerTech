@@ -51,7 +51,7 @@
     "sitemapSwitcherAuto": "on",
     "favicon": false,
     "gdpr": false,
-    "google-analytics": "<meta name=\"google-site-verification\" content=\"5EYeBVXYKoVWcIwQTyxLmifEEWFQiMj5KZXxgD8rPvQ\" />",
+    "google-analytics": "<meta name=\"yandex-verification\" content=\"55b397206ec15b02\" />\n",
     "cookiesAlert": false
   },
   "pages": {
