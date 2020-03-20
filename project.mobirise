@@ -50,9 +50,9 @@
     "siteUrl": false,
     "sitemapSwitcherAuto": "on",
     "favicon": false,
-    "cookiesAlert": false,
     "gdpr": false,
-    "google-analytics": "google-site-verification: google36e69fb32e93630a"
+    "google-analytics": "<meta name=\"google-site-verification\" content=\"5EYeBVXYKoVWcIwQTyxLmifEEWFQiMj5KZXxgD8rPvQ\" />",
+    "cookiesAlert": false
   },
   "pages": {
     "index.html": {
